@@ -35,7 +35,6 @@
   </a>
 </div>
 
-
 <!-- Footer dengan SVG Tema Ungu -->
 <div align="center">
   <h4 style="color: #a9a9ff; margin-bottom: 0.5rem;">💙 Thanks for visiting!</h4>
