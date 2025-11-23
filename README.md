@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=75&lines=Hello!+%F0%9F%91%8B;I'm+ANHub-Script;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=75&lines=Hello!+%F0%9F%91%8B;I'm+Aditya+Nugraha;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <!-- Badges Profil Utama -->
