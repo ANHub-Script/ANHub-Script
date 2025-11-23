@@ -20,18 +20,6 @@
 
 <br/>
 
-<!-- Bahasa Pemrograman dengan Container Stylish -->
-<div align="center" style="background-color: #161b22; padding: 1.2rem; border-radius: 12px; width: 90%; max-width: 700px;">
-  <h3 style="color: #f8f8f2; margin-top: 0; margin-bottom: 1rem;">💻 Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-<br/>
-
 <!-- Tools & Framework Opsional (jika diperlukan) -->
 <div align="center" style="background-color: #161b22; padding: 1.2rem; border-radius: 12px; width: 90%; max-width: 700px;">
   <h3 style="color: #f8f8f2; margin-top: 0; margin-bottom: 1rem;">🛠️ Tools & Frameworks</h3>
