@@ -1,21 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=75&lines=Hello!+%F0%9F%91%8B;I'm+Dexz00;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&height=75&lines=Hello!+%F0%9F%91%8B;I'm+ANHub-Script;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <!-- Badges Profil Utama -->
 <div align="center">
   <img src="https://img.shields.io/badge/Professional-Developer-6C63FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/Dexz00?label=Followers&style=for-the-badge&color=6C63FF" />
-  <img src="https://komarev.com/ghpvc/?username=Dexz00&label=Profile+Views&style=for-the-badge&color=6C63FF" />
-  <img src="https://img.shields.io/github/stars/Dexz00?label=Total+Stars&style=for-the-badge&color=6C63FF" />
+  <img src="https://img.shields.io/github/followers/ANHub-Script?label=Followers&style=for-the-badge&color=6C63FF" />
+  <img src="https://komarev.com/ghpvc/?username=ANHub-Script&label=Profile+Views&style=for-the-badge&color=6C63FF" />
+  <img src="https://img.shields.io/github/stars/ANHub-Script?label=Total+Stars&style=for-the-badge&color=6C63FF" />
 </div>
 
 <br/>
 
 <!-- Statistik Profil Dinamis -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dexz00&show_icons=true&theme=tokyonight&bg_color=161b22&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF20&border_radius=10" alt="Dexz00 Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexz00&layout=compact&theme=tokyonight&bg_color=161b22&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF20&border_radius=10" alt="Top Languages" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANHub-Script&show_icons=true&theme=tokyonight&bg_color=161b22&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF20&border_radius=10" alt="ANHub-Script Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANHub-Script&layout=compact&theme=tokyonight&bg_color=161b22&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF20&border_radius=10" alt="Top Languages" width="41%"/>
 </div>
 
 <br/>
@@ -45,11 +45,8 @@
 <!-- Link Sosial/Kontak -->
 <div align="center">
   <h3 style="color: #f8f8f2;">📫 Connect With Me</h3>
-  <a href="https://discord.com/users/USER_ID_ANDA" target="_blank">
+  <a href="https://discord.com/users/ank987122" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/USER_LINKEDIN_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -61,5 +58,5 @@
   <p style="color: #cccccc; margin-top: 0;">If you liked my projects, leave a ⭐ on the repository!</p>
   
   <!-- SVG Gelombang Tema Ungu -->
-  <img src="https://raw.githubusercontent.com/Dexz00/Dexz00/main/wave-purple.svg" alt="Wave Footer" width="100%" style="margin-top: 1rem;" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
