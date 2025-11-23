@@ -18,7 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANHub-Script&layout=compact&theme=tokyonight&bg_color=161b22&text_color=ffffff&icon_color=6C63FF&border_color=6C63FF20&border_radius=10" alt="Top Languages" width="41%"/>
 </div>
 
-<br/>
 
 <!-- Tools & Framework Opsional (jika diperlukan) -->
 <div align="center" style="background-color: #161b22; padding: 1.2rem; border-radius: 12px; width: 90%; max-width: 700px;">
@@ -28,8 +27,6 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
-<br/>
-
 <!-- Link Sosial/Kontak -->
 <div align="center">
   <h3 style="color: #f8f8f2;">📫 Connect With Me</h3>
@@ -38,7 +35,6 @@
   </a>
 </div>
 
-<br/>
 
 <!-- Footer dengan SVG Tema Ungu -->
 <div align="center">
