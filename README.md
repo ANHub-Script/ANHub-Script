@@ -99,9 +99,43 @@ return Developer
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 [ANUI - Advanced Roblox UI Library](https://github.com/ANHub-Script/ANUI)
+  
+**Premium UI library for Roblox**
+
+- ✨ 19 Premium Components
+- 🎨 Modern Design System
+- 📚 Complete Documentation
+- 🚀 Easy to Use
+
+**Tech:** `Lua` `Roblox` `UI/UX`
+
 <a href="https://github.com/ANHub-Script/ANUI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ANHub-Script&repo=ANUI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <img src="https://img.shields.io/github/stars/ANHub-Script/ANUI?style=for-the-badge&color=6C63FF&logo=github" />
+  <img src="https://img.shields.io/github/forks/ANHub-Script/ANUI?style=for-the-badge&color=00D26A&logo=github" />
 </a>
+
+</td>
+<td width="50%">
+
+### 🔧 [More Projects Coming Soon...]
+
+**Working on exciting new tools!**
+
+- 🎮 Script Development Tools
+- 📦 UI Component Library
+- 🛠️ Developer Utilities
+- 📖 Tutorial Series
+
+**Stay tuned!** ⭐
+
+</td>
+</tr>
+</table>
 
 </div>
 
