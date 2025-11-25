@@ -52,12 +52,35 @@ return Developer
 
 ### 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ANHub-Script&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=ANHub-Script&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+<!-- Main Stats -->
+<a href="https://github.com/ANHub-Script">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANHub-Script&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true&include_all_commits=true"/>
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/ANHub-Script">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ANHub-Script&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=ffffff&dates=ffffff"/>
+</a>
 
 <br/>
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANHub-Script&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" />
+<!-- Top Languages -->
+<a href="https://github.com/ANHub-Script">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANHub-Script&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8"/>
+</a>
+
+</div>
+
+---
+
+### 📈 Contribution Stats
+
+<div align="center">
+
+| 📊 Total Contributions | ⭐ Total Stars | 🔀 Total Forks | 📦 Total Repos |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/dynamic/json?color=6C63FF&style=for-the-badge&label=Total&query=$.totalContributions&url=https://github-contributions-api.deno.dev/ANHub-Script.json) | ![](https://img.shields.io/github/stars/ANHub-Script?style=for-the-badge&color=FFD700&logo=github) | ![](https://img.shields.io/badge/Forks-Check_Repos-00D26A?style=for-the-badge&logo=github) | ![](https://img.shields.io/badge/Repos-Public-6C63FF?style=for-the-badge&logo=github) |
 
 </div>
 
